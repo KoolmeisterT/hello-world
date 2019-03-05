@@ -1,2 +1,3 @@
 # hello-world
-Õpin GitHubi kasutama
+Õpin GitHubi kasutama.
+Olen veel algaja.
